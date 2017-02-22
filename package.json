@@ -1,0 +1,24 @@
+{
+  "name": "handsome-comparison",
+  "version": "1.0.1",
+  "description": "npm Handsome Comparison is just for fun, don't take it too serious, for education purpose only",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderHT/npm-package.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "Alexander Hendrawan T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderHT/npm-package/issues"
+  },
+  "homepage": "https://github.com/alexanderHT/npm-package#readme"
+}
